@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/react-study/static/js/main.add81b38.js",
+    "main.css": "/react-study/static/css/main.240c3c59.css",
+    "main.js": "/react-study/static/js/main.49fce6b4.js",
     "index.html": "/react-study/index.html",
-    "main.add81b38.js.map": "/react-study/static/js/main.add81b38.js.map"
+    "main.240c3c59.css.map": "/react-study/static/css/main.240c3c59.css.map",
+    "main.49fce6b4.js.map": "/react-study/static/js/main.49fce6b4.js.map"
   },
   "entrypoints": [
-    "static/js/main.add81b38.js"
+    "static/css/main.240c3c59.css",
+    "static/js/main.49fce6b4.js"
   ]
 }
